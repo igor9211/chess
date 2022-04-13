@@ -1,5 +1,5 @@
 from unittest import TestCase
-import view
+from src import view
 
 
 class TestFun(TestCase):

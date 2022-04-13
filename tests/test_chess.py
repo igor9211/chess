@@ -1,4 +1,4 @@
-from chess import King, Queen, Bishop, Rook, Knight, Pawn, Figure
+from src.chess import King, Queen, Bishop, Rook, Knight, Pawn, Figure
 from unittest import TestCase
 
 
